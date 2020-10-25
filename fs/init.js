@@ -1,7 +1,7 @@
 load('api_timer.js');
 load('api_neopixel.js');
 
-let pin = 8, numPixels = 10, colorOrder = NeoPixel.GRB, i = 0;
+let pin = 13, numPixels = 50, colorOrder = NeoPixel.GRB, i = 0;
 let strip = NeoPixel.create(pin, numPixels, colorOrder);
 
 Timer.set(150, Timer.REPEAT, function() {
