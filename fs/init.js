@@ -5,51 +5,18 @@ let pin = 13, numPixels = 50, colorOrder = NeoPixel.GRB, i = 0;
 let strip = NeoPixel.create(pin, numPixels, colorOrder);
 
 let lightpattern=[
-					[10,255,0],
-					[10,128,64],
-					[10,3840,6000,9000,15000,30000],
-					[10,0,255]
+					[1000,0,255,255,255,255],
+					[1000,0,65280,65280,65280,65280],
+					[300,0,16711680,16711680,16711680,16711680],
+					[1000,0,0,0,0,0]
 				];
 let cnt=0;
-let patternzise=lightpattern.length;
-let val;
+let FRAME_TICK_MS=100;
+let frameqty=lightpattern.length;
+let framedelay;
+let frameticksctr=0;
 
 strip.clear();
-
-Timer.set(100, Timer.REPEAT, function() {
-  // let pixel = i++ % numPixels;
-  // let r = i % 255, g = i * 2 % 255, b = i * i % 255;
-  // strip.clear();
-  // strip.setPixel(pixel, r, g, b);
-  // strip.show();
-
-if( cnt < patternzise)
-	{
-		val=lightpattern[cnt][1];
-		strip.setPixel(49, val, 0, 0);	
-		
-		val=lightpattern[cnt][2];
-		//strip.setPixel(48, 0, val, 0);	
-		
-		//setPixelColor(strip,48,986895);
-		fillPixelFrame(strip,lightpattern[2]);
-		
-		cnt++;
-		strip.show();
-	}
-else
-	{
-		cnt=0;
-	}
-
-}, null);
-
-//strip.clear();
-//strip.setPixel(1, 255, 0, 0);
-//strip.show();
-//strip.setPixel(49, 0, 0, 255);
-//strip.setPixel(24, 0, 255, 0);
-//strip.show();
 
 /**
 * set pixel color with packed rgb variable
@@ -59,25 +26,54 @@ else
 * @returns {void}
 */
 let setPixelColor=function(npixobj,pixnum,packedcolor){
-
 	npixobj.setPixel(pixnum, (packedcolor >> 8)& 0x000000ff , packedcolor & 0x000000ff, (packedcolor >> 16)& 0x000000ff);	
-
 };
 
 /**
 * fill one frame of neopixel strip leds with the  packed color values  in each position of the array
 * @param {obj} neopixel strip object
-* @param {int} frame array object. 
+* @param {obj} frame array object. 
 * @returns {void}
 */
 let fillPixelFrame=function(npixobj,framearray){
 	let i;
-	let size=(framearray.length)-1;
+	let colval;
+	let size=(framearray.length)-2;
+	let offset=framearray[1];
 	
 	for(i=0; i<size ;i++)
 	{
-		setPixelColor(npixobj,i,framearray[i+1]);	
-	}
-	
+		colval=framearray[i+2];
+		setPixelColor(npixobj,offset+i, colval);	
+	}	
 };
 
+Timer.set(FRAME_TICK_MS, Timer.REPEAT, function() {
+
+	
+	framedelay=lightpattern[cnt][0];
+
+	if( frameticksctr===0 )
+		{				
+			fillPixelFrame(strip,lightpattern[cnt]);
+			strip.show();
+			frameticksctr=frameticksctr+1;				
+		}
+	else
+		{				
+			if( framedelay > (frameticksctr * FRAME_TICK_MS) )
+			{
+				frameticksctr=frameticksctr+1;
+			}
+			else
+			{
+				cnt++;
+				frameticksctr=0;
+				if( cnt > (frameqty-1))
+				{
+					cnt=0;
+				}					
+			}  
+		}		
+
+}, null);
