@@ -5,7 +5,7 @@ let pin = 13, numPixels = 50, colorOrder = NeoPixel.GRB, i = 0;
 let strip = NeoPixel.create(pin, numPixels, colorOrder);
 
 let lightpattern=[
-					[1000,0,255,255,255,255],
+					[1000,0,0,1039,2079,4159,8319,16639,255,65535,937807],
 					[1000,0,65280,65280,65280,65280],
 					[300,0,16711680,16711680,16711680,16711680],
 					[1000,0,0,0,0,0]
