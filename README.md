@@ -42,8 +42,7 @@ You must replace the following values:
 mos config-set dash.enable=true dash.token=MDASH_TOKEN
 ```
 You must replace the following values:
-- MDASH_TOKEN
-```  
+- MDASH_TOKEN  
 
 6. By default the app uses test.mosquitto.org as MQTT broker, tho change it you must modify mos.yml
 
