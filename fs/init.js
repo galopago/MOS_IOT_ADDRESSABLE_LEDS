@@ -13,7 +13,7 @@ let FRAME_TICK_MS=5000;
 
 let colval;
 
-let activepalette=0;
+let activepalette=2;
 
 let topic = '/mosiotlights/colorpalette';
 
@@ -31,6 +31,11 @@ let autumn_palette_size=autumn_palette.length;
 // pomogreen=13056,sprigreen=39168,oryellow=52479,cinnabar=13260,firebrick=153
 let christmas_palette=[13056, 39168, 52479, 13260, 153];
 let christmas_palette_size=christmas_palette.length;
+
+// **** Spring palette ****
+// vividtangerine=658175,deco=384465,doublewhite=2682352,moonraker=16029234,cruise=2682557
+let spring_palette=[658175, 384465, 2682352, 16029234, 2682557];
+let spring_palette_size=spring_palette.length;
 
 // **** allwhite palette (max power output test) ****
 // allwhite=16777215
@@ -66,10 +71,10 @@ let randomint=function(min,max){
 // listen to MQTT server topic to change color palette
 // ************************************************
 
-MQTT.sub(topic,function(conn,topic,msg){
-	print('Topic:', topic, 'message:', msg);
-	activepalette=JSON.parse(msg);
-},null);
+//MQTT.sub(topic,function(conn,topic,msg){
+//	print('Topic:', topic, 'message:', msg);
+//	activepalette=JSON.parse(msg);
+//},null);
 
 
 
@@ -96,7 +101,12 @@ let randomnum;
 			randomnum=randomint(0,autumn_palette_size-1);
 			colval=autumn_palette[randomnum];
 		}
-			else if ( activepalette===2 )
+		else if ( activepalette===2 )
+		{
+			randomnum=randomint(0,spring_palette_size-1);
+			colval=spring_palette[randomnum];
+		}
+		else if ( activepalette===3 )
 		{
 			randomnum=randomint(0,allwhite_palette_size-1);
 			colval=allwhite_palette[randomnum];

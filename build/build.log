@@ -1,0 +1,541 @@
+Handling lib "dash"...
+Handling lib "mqtt"...
+Handling lib "mjs"...
+Handling lib "ca-bundle"...
+Handling lib "rpc-uart"...
+Handling lib "zz_boards"...
+Handling lib "rpc-service-fs"...
+Handling lib "neopixel"...
+dash: Does not exist, cloning from "https://github.com/mongoose-os-libs/dash"...
+Handling lib "core"...
+rpc-service-fs: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-fs"...
+mqtt: Does not exist, cloning from "https://github.com/mongoose-os-libs/mqtt"...
+mjs: Does not exist, cloning from "https://github.com/mongoose-os-libs/mjs"...
+zz_boards: Does not exist, cloning from "https://github.com/mongoose-os-libs/boards"...
+core: Does not exist, cloning from "https://github.com/mongoose-os-libs/core"...
+neopixel: Does not exist, cloning from "https://github.com/mongoose-os-libs/neopixel"...
+Handling lib "rpc-service-config"...
+Handling lib "rpc-service-ota"...
+rpc-uart: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-uart"...
+ca-bundle: Does not exist, cloning from "https://github.com/mongoose-os-libs/ca-bundle"...
+rpc-service-config: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-config"...
+rpc-service-ota: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-ota"...
+zz_boards: Checking out 2.17.0...
+neopixel: Checking out 2.17.0...
+zz_boards: Done, hash 897a76f9b7306751dea4596f38df4486548ae2da
+neopixel: Done, hash 0909f0d259717bca7274331a76f714422f47f9b2
+neopixel: Hash is updated:  -> 0909f0d259717bca7274331a76f714422f47f9b2
+neopixel: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel"
+zz_boards: Hash is updated:  -> 897a76f9b7306751dea4596f38df4486548ae2da
+zz_boards: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/boards"
+ca-bundle: Checking out 2.17.0...
+ca-bundle: Done, hash c6a3caec6567790ba33b448c5550ec032b20914f
+ca-bundle: Hash is updated:  -> c6a3caec6567790ba33b448c5550ec032b20914f
+ca-bundle: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ca-bundle"
+core: Checking out 2.17.0...
+dash: Checking out 2.17.0...
+mjs: Checking out 2.17.0...
+core: Done, hash c7359ef09e0f75bd693d88672ba9665b84d0e46a
+dash: Done, hash 28b419f421aa9c40675621befeb3d96d79cb520f
+core: Hash is updated:  -> c7359ef09e0f75bd693d88672ba9665b84d0e46a
+core: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core"
+mjs: Done, hash a65e6d7c84aa0b22795ca403296db1772371313a
+dash: Hash is updated:  -> 28b419f421aa9c40675621befeb3d96d79cb520f
+dash: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/dash"
+mjs: Hash is updated:  -> a65e6d7c84aa0b22795ca403296db1772371313a
+mjs: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs"
+rpc-service-ota: Checking out 2.17.0...
+rpc-service-config: Checking out 2.17.0...
+rpc-service-fs: Checking out 2.17.0...
+mqtt: Checking out 2.17.0...
+rpc-service-ota: Done, hash 136c3e34bf6a831e5fc00e1d59f90fe475445987
+rpc-service-config: Done, hash b30e187977d8dafcb4297cff60e036855a7ff531
+rpc-service-fs: Done, hash 7edeecacec8ed276aa83485ae8879219dfface29
+rpc-service-ota: Hash is updated:  -> 136c3e34bf6a831e5fc00e1d59f90fe475445987
+rpc-service-ota: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-ota"
+mqtt: Done, hash 8d6644499c2ec20da9b9fcc6aefd008f2f48e442
+rpc-service-config: Hash is updated:  -> b30e187977d8dafcb4297cff60e036855a7ff531
+rpc-service-config: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config"
+rpc-service-fs: Hash is updated:  -> 7edeecacec8ed276aa83485ae8879219dfface29
+rpc-service-fs: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs"
+mqtt: Hash is updated:  -> 8d6644499c2ec20da9b9fcc6aefd008f2f48e442
+mqtt: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt"
+rpc-uart: Checking out 2.17.0...
+rpc-uart: Done, hash 4c68e5d7b3eecb19ccc6128f111a118384ed20b4
+rpc-uart: Hash is updated:  -> 4c68e5d7b3eecb19ccc6128f111a118384ed20b4
+rpc-uart: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart"
+Handling lib "mongoose"...
+mongoose: Does not exist, cloning from "https://github.com/mongoose-os-libs/mongoose"...
+mongoose: Checking out 2.17.0...
+mongoose: Done, hash 08dafbf084c7c25207f28b00948df04b0c218844
+mongoose: Hash is updated:  -> 08dafbf084c7c25207f28b00948df04b0c218844
+mongoose: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mongoose"
+Handling lib "rpc-ws"...
+Handling lib "shadow"...
+Handling lib "ota-shadow"...
+rpc-ws: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-ws"...
+shadow: Does not exist, cloning from "https://github.com/mongoose-os-libs/shadow"...
+ota-shadow: Does not exist, cloning from "https://github.com/mongoose-os-libs/ota-shadow"...
+rpc-ws: Checking out 2.17.0...
+rpc-ws: Done, hash e8e507f4a91eb96a0c664fa33319b2e4f0ed89b2
+shadow: Checking out 2.17.0...
+rpc-ws: Hash is updated:  -> e8e507f4a91eb96a0c664fa33319b2e4f0ed89b2
+rpc-ws: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws"
+shadow: Done, hash 0be68cac8bbfeb1e45b5a516118243cecce1ec8f
+shadow: Hash is updated:  -> 0be68cac8bbfeb1e45b5a516118243cecce1ec8f
+shadow: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow"
+ota-shadow: Checking out 2.17.0...
+ota-shadow: Done, hash b3b148e5c6c21ae226143c1f8025facea51228fc
+ota-shadow: Hash is updated:  -> b3b148e5c6c21ae226143c1f8025facea51228fc
+ota-shadow: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-shadow"
+Handling lib "ota-http-client"...
+Handling lib "rpc-common"...
+ota-http-client: Does not exist, cloning from "https://github.com/mongoose-os-libs/ota-http-client"...
+rpc-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-common"...
+ota-http-client: Checking out 2.17.0...
+ota-http-client: Done, hash e2f9fcfcae9e6efb24e6de6b42af6dd483dd675b
+ota-http-client: Hash is updated:  -> e2f9fcfcae9e6efb24e6de6b42af6dd483dd675b
+ota-http-client: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-http-client"
+rpc-common: Checking out 2.17.0...
+rpc-common: Done, hash 7f1fa52a0ee6ac88bd344691086f176c7fc448a9
+rpc-common: Hash is updated:  -> 7f1fa52a0ee6ac88bd344691086f176c7fc448a9
+rpc-common: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common"
+Handling lib "mbedtls"...
+Handling lib "vfs-common"...
+mbedtls: Does not exist, cloning from "https://github.com/mongoose-os-libs/mbedtls"...
+vfs-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-common"...
+vfs-common: Checking out 2.17.0...
+vfs-common: Done, hash 6e0af5a5e886b051160c9948218c7419c662e1e3
+vfs-common: Hash is updated:  -> 6e0af5a5e886b051160c9948218c7419c662e1e3
+vfs-common: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common"
+mbedtls: Checking out 2.17.0...
+mbedtls: Done, hash ec0fd0c129ce35edb64ec45f512a42e76ef64623
+mbedtls: Hash is updated:  -> ec0fd0c129ce35edb64ec45f512a42e76ef64623
+mbedtls: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls"
+Handling lib "ota-common"...
+ota-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/ota-common"...
+ota-common: Checking out 2.17.0...
+ota-common: Done, hash 8a552a23da06f8d9e9e50b0c2c46680c8a875c30
+ota-common: Hash is updated:  -> 8a552a23da06f8d9e9e50b0c2c46680c8a875c30
+ota-common: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-common"
+Handling lib "atca"...
+atca: Does not exist, cloning from "https://github.com/mongoose-os-libs/atca"...
+atca: Checking out 2.17.0...
+atca: Done, hash 8fc5370f2244244e91973316bac28fd5a19528f9
+atca: Hash is updated:  -> 8fc5370f2244244e91973316bac28fd5a19528f9
+atca: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca"
+Handling lib "i2c"...
+i2c: Does not exist, cloning from "https://github.com/mongoose-os-libs/i2c"...
+i2c: Checking out 2.17.0...
+i2c: Done, hash adf8fa47daa2b8d0e1a5b729f095f77e85e6797b
+i2c: Hash is updated:  -> adf8fa47daa2b8d0e1a5b729f095f77e85e6797b
+i2c: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c"
+Handling lib "vfs-dev-part"...
+Handling lib "vfs-fs-lfs"...
+Handling lib "vfs-fs-spiffs"...
+vfs-fs-lfs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-lfs"...
+vfs-dev-part: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-dev-part"...
+vfs-fs-spiffs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-spiffs"...
+vfs-dev-part: Checking out 2.17.0...
+vfs-dev-part: Done, hash 94426df449f807e4268e1d1a3ee5146da85902da
+vfs-dev-part: Hash is updated:  -> 94426df449f807e4268e1d1a3ee5146da85902da
+vfs-dev-part: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part"
+vfs-fs-spiffs: Checking out 2.17.0...
+vfs-fs-spiffs: Done, hash 12850caac96f1ea6278d21a661d93a11228de4c3
+vfs-fs-spiffs: Hash is updated:  -> 12850caac96f1ea6278d21a661d93a11228de4c3
+vfs-fs-spiffs: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs"
+vfs-fs-lfs: Checking out 2.17.0...
+vfs-fs-lfs: Done, hash c62bb1e71eadacda195ae550b767bca4d3452c6a
+vfs-fs-lfs: Hash is updated:  -> c62bb1e71eadacda195ae550b767bca4d3452c6a
+vfs-fs-lfs: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs"
+Handling lib "wifi"...
+wifi: Does not exist, cloning from "https://github.com/mongoose-os-libs/wifi"...
+wifi: Checking out 2.17.0...
+wifi: Done, hash 851f55fda6d1b873284d5c4847bec3f13bcc638f
+wifi: Hash is updated:  -> 851f55fda6d1b873284d5c4847bec3f13bcc638f
+wifi: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi"
+The flag --module is not given for the module "mjs_module", going to use the repository
+mjs_module: Does not exist, cloning from "https://github.com/cesanta/mjs"...
+mjs_module: Checking out 2.17.0...
+mjs_module: Done, hash 50f47be8c6232e34256756159d5f97796106a006
+The flag --repo is not given, going to use mongoose-os repository
+mongoose-os: Does not exist, cloning from "https://github.com/cesanta/mongoose-os"...
+mongoose-os: Checking out 2.17.0...
+mongoose-os: Done, hash c31a7453f6754f80acab6b1b229fc097bf411f37
+Successfully fetched prebuilt binary for "mbedtls" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libmbedtls-esp8266-2.17.0.a"
+Successfully fetched prebuilt binary for "mongoose" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libmongoose-esp8266-2.17.0.a"
+Successfully fetched prebuilt binary for "ota-common" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libota-common-esp8266-2.17.0.a"
+Successfully fetched prebuilt binary for "ota-http-client" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libota-http-client-esp8266-2.17.0.a"
+Successfully fetched prebuilt binary for "ota-shadow" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libota-shadow-esp8266-2.17.0.a"
+Successfully fetched prebuilt binary for "dash" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libdash-esp8266-2.17.0.a"
+Successfully fetched prebuilt binary for "rpc-service-ota" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/librpc-service-ota-esp8266-2.17.0.a"
+Sources: [/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/mgos_deps_init.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src/mgos_i2c_master.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src/gpio/mgos_i2c_gpio_master.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/src/mgos_atca.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/src/mgos_atca_hal.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/atca_cfgs.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/atca_command.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/atca_device.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/atca_execution.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/atca_iface.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_cbc.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_cmac.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_ctr.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_gcm.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_checkmac.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_counter.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_derivekey.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_ecdh.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_gendig.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_genkey.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_hmac.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_info.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_kdf.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_lock.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_mac.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_nonce.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_privwrite.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_random.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_read.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_secureboot.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_selftest.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_sha.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_sign.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_updateextra.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_verify.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_write.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_helpers.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/host/atca_host.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/mbedtls/atca_mbedtls_wrap.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/mgos_vfs.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/mgos_vfs_dev.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/mgos_vfs_internal.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/esp8266/esp_flash_writer.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/esp8266/esp_fs.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/esp8266/esp_vfs_dev_sysflash.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part/src/mgos_vfs_dev_part.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/src/mgos_vfs_lfs.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs/lfs.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs/lfs_util.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs1/lfs1.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs1/lfs1_util.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/mgos_vfs_fs_spiffs.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs/spiffs_cache.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs/spiffs_check.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs/spiffs_gc.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs/spiffs_hydrogen.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs/spiffs_nucleus.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src/mgos_core.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src/esp8266/esp_rboot.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/src/mgos_shadow.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src/mg_rpc.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src/mg_rpc_channel.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src/mg_rpc_channel_http.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src/mgos_rpc.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/src/mgos_rpc_channel_ws.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/src/mgos_rpc_ws.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/src/mos_mjs.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs/mjs.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/src/esp8266_mjs.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/src/mgos_mqtt.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/src/mgos_mqtt_conn.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/src/mgos_neopixel.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config/src/mgos_service_config.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs/src/mgos_service_fs.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart/src/mgos_rpc_channel_uart.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src/mgos_wifi.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src/mjs_wifi.c /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src/esp8266/esp_wifi.c]
+Include dirs: [/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/crypto /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/hal /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/include/esp8266 /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/mbedtls/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/include/esp8266 /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mongoose/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs1 /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include/spiffs /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include/esp8266 /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/include/esp8266 /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-common/src /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-common/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-common/include/esp8266 /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-http-client/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/dash/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-ota/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/include /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/include/esp8266]
+Binary libs: [/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libmbedtls-esp8266-2.17.0.a /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libmongoose-esp8266-2.17.0.a /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libota-common-esp8266-2.17.0.a /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libota-http-client-esp8266-2.17.0.a /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libota-shadow-esp8266-2.17.0.a /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/libdash-esp8266-2.17.0.a /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/librpc-service-ota-esp8266-2.17.0.a]
+Building...
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838" to "/app"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mongoose-os" to "/mongoose-os"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mongoose-os" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mongoose-os"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src/gpio" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src/gpio"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/host" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/host"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/mbedtls" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/mbedtls"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/esp8266" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/esp8266"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs1" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs1"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src/esp8266" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src/esp8266"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src/esp8266" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src/esp8266"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/crypto" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/crypto"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/hal" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/hal"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/include/esp8266" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/include/esp8266"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/mbedtls/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/mbedtls/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/include/esp8266" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/include/esp8266"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mongoose/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mongoose/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs1" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs1"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include/spiffs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include/spiffs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include/esp8266" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include/esp8266"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/include/esp8266" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/include/esp8266"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-common/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-common/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-http-client/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-http-client/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/dash/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/dash/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-ota/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-ota/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/include" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ca-bundle/fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ca-bundle/fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs/mjs/lib" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs/mjs/lib"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/mjs_fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/mjs_fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-http-client/mjs_fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-http-client/mjs_fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/mjs_fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/mjs_fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/mjs_fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/mjs_fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/dash/mjs_fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/dash/mjs_fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/mjs_fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/mjs_fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/mjs_fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/mjs_fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/mjs_fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/mjs_fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/fs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen" to "/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen"
+Docker arguments: run --name mos_build_2021-04-10T04-17-35-00_6683911211189951529 --rm -i -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/host:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/host -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/crypto:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/crypto -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/mjs_fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/mjs_fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/hal:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/hal -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/include/esp8266:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/include/esp8266 -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include/esp8266:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include/esp8266 -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mongoose-os:/mongoose-os -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ca-bundle/fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ca-bundle/fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src/esp8266:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src/esp8266 -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mongoose/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mongoose/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-http-client/mjs_fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-http-client/mjs_fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/mjs_fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/mjs_fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-ota/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-ota/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/mjs_fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/mjs_fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/mbedtls/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/mbedtls/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/mjs_fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/mjs_fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs1:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs1 -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include/spiffs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/include/spiffs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/dash/mjs_fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/dash/mjs_fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838:/app -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/esp8266:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/esp8266 -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-common/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-common/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs/mjs/lib:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs/mjs/lib -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/mbedtls:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/mbedtls -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/include/esp8266:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/include/esp8266 -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-http-client/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-http-client/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/include/esp8266:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mbedtls/include/esp8266 -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src/gpio:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src/gpio -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src/esp8266:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src/esp8266 -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/dash/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/dash/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mongoose-os:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mongoose-os -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/mjs_fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/mjs_fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs/include:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs/include -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/mjs_fs:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/mjs_fs -v /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src:/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src --user 0:0 docker.io/mgos/esp8266-build:2.2.1-1.5.0-r5 /bin/bash -c nice make '-j' '8' '-C' '/app' '-f' '/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mongoose-os/platforms/esp8266/Makefile.build' 'all' 'MGOS_VARS_FILE=/data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/vars.mk'
+make: Entering directory '/app'
+CC esptool2.c
+  GEN   /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/mgos_config.c
+CC esptool2_elf.c
+  MKDIR /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fw_temp
+  GEN   /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/mgos_ro_vars.c
+  MKDIR /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/fw
+gcc -O2 -Wall -c esptool2.c -o /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/esptool2.o
+gcc -O2 -Wall -c esptool2_elf.c -o /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/esptool2_elf.o
+  GEN   /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/ffi_exports.c
+make[1]: Entering directory '/app'
+make[1]: warning: -jN forced in submake: disabling jobserver mode.
+  GEN   /mongoose-os/platforms/esp8266/ld/non_os.ld (0xffff0 @ 0x40200010) -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/0x100000.ld
+  CC    ./src/netif/etharp.c
+  CC    ./src/core/dhcp.c
+  CC    ./src/core/mem.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_cache.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/mgos_deps_init.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src/mgos_i2c_master.c
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/conf0.json -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ca-bundle/fs/ca.pem -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/api_bitbang.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/api_config.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/api_events.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/api_gpio.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/api_http.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/api_log.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/api_net.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/api_sys.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/api_timer.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/api_uart.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/init.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/fs/polyfill.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs/mjs/lib/api_dataview.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs/mjs/lib/api_file.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs/mjs/lib/api_math.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/mjs_fs/api_i2c.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/ota-http-client/mjs_fs/api_ota.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/mjs_fs/api_shadow.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/mjs_fs/api_rpc.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/dash/mjs_fs/api_dash.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/mjs_fs/api_mqtt.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/mjs_fs/api_neopixel.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/mjs_fs/api_wifi.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/fs/api_arch_uart.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/fs/api_esp8266.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/fs/init.js -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/i2c/src/gpio/mgos_i2c_gpio_master.c
+  MKFS  /usr/local/bin/mkspiffs8 262144 {bs:4096,ps:256,es:4096} /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fs -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fw_temp/fs.bin
+     FS params: size=262144, bs=4096, ps=256, es=4096
+       Adding api_dash.js: 703
+       Adding api_neopixel.js: 1449
+       Adding api_shadow.js: 1687
+       Adding init.js: 3330
+       Adding api_net.js: 5122
+       Adding api_i2c.js: 4880
+       Adding api_wifi.js: 1020
+       Adding api_http.js: 3812
+       Adding api_events.js: 3857
+       Adding api_config.js: 2170
+       Adding api_mqtt.js: 2927
+       Adding api_rpc.js: 2941
+       Adding api_file.js: 2105
+       Adding api_math.js: 1890
+       Adding api_gpio.js: 3571
+       Adding api_timer.js: 1750
+       Adding api_uart.js: 5772
+       Adding api_bitbang.js: 815
+       Adding api_arch_uart.js: 651
+       Adding api_sys.js: 1652
+       Adding api_ota.js: 278
+       Adding api_log.js: 2005
+       Adding api_esp8266.js: 231
+       Adding polyfill.js: 1415
+       Adding ca.pem: 30849
+       Adding api_dataview.js: 7433
+       Adding conf0.json: 3
+     FS stats : space total=233681, used=104416, free=129265
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/src/mgos_atca.c
+  CC    ./src/core/sys_arch.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/src/mgos_atca_hal.c
+  CC    ./src/core/init.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/atca_cfgs.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/atca_command.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/atca_device.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/atca_execution.c
+  CC    ./src/core/memp.c
+  CC    ./src/core/sys.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/atca_iface.c
+LD /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/esptool2
+gcc -o /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/esptool2 /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/esptool2.o /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/esptool2_elf.o
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes.c
+  CC    ./src/core/tcp.c
+  CC    ./src/core/dns.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_cbc.c
+  CC    ./src/core/def.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_cmac.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_ctr.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_gcm.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_checkmac.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_counter.c
+  CC    ./src/core/raw.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_derivekey.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_ecdh.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_gendig.c
+  CC    ./src/core/tcp_in.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_genkey.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_hmac.c
+  CC    ./src/core/sntp.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_info.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_kdf.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_lock.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_mac.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_nonce.c
+  CC    ./src/core/pbuf.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_privwrite.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_random.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_read.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_secureboot.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_sha.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_selftest.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_sign.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_updateextra.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_verify.c
+  CC    ./src/core/netif.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_basic_write.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/basic/atca_helpers.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/host/atca_host.c
+  CC    ./src/core/stats.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/atca/cryptoauthlib/lib/mbedtls/atca_mbedtls_wrap.c
+  CC    ./src/core/timers.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/mgos_vfs.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/mgos_vfs_dev.c
+  CC    ./src/core/mdns.c
+  CC    ./src/core/udp.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/mgos_vfs_internal.c
+  CC    ./src/core/tcp_out.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/esp8266/esp_flash_writer.c
+  CC    ./src/core/ipv4/ip_frag.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/esp8266/esp_fs.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-common/src/esp8266/esp_vfs_dev_sysflash.c
+  CC    ./src/core/ipv4/inet.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-dev-part/src/mgos_vfs_dev_part.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/src/mgos_vfs_lfs.c
+  CC    ./src/core/ipv4/ip_addr.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs/lfs.c
+  CC    ./src/core/ipv4/igmp.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs/lfs_util.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs1/lfs1.c
+  CC    ./src/core/ipv4/ip.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-lfs/littlefs1/lfs1_util.c
+  CC    ./src/core/ipv4/autoip.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/mgos_vfs_fs_spiffs.c
+  CC    ./src/core/ipv4/inet_chksum.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs/spiffs_cache.c
+  CC    ./src/core/ipv4/icmp.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs/spiffs_check.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs/spiffs_gc.c
+  CC    ./src/api/netbuf.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs/spiffs_hydrogen.c
+  CC    ./src/api/api_lib.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/vfs-fs-spiffs/src/spiffs/spiffs_nucleus.c
+  CC    ./src/api/netifapi.c
+  CC    ./src/api/tcpip.c
+  CC    ./src/api/netdb.c
+  CC    ./src/api/err.c
+  CC    ./src/api/api_msg.c
+  CC    ./src/api/sockets.c
+  CC    ./espressif/app/espconn.c
+  CC    ./espressif/app/espconn_buf.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src/mgos_core.c
+  CC    ./espressif/app/netio.c
+  CC    ./espressif/app/espconn_tcp.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/core/src/esp8266/esp_rboot.c
+  CC    ./espressif/app/ping.c
+  CC    ./espressif/app/dhcpserver.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/shadow/src/mgos_shadow.c
+  CC    ./espressif/app/espconn_mdns.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src/mg_rpc.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src/mg_rpc_channel.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src/mg_rpc_channel_http.c
+  CC    ./espressif/app/espconn_udp.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-common/src/mgos_rpc.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/src/mgos_rpc_channel_ws.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-ws/src/mgos_rpc_ws.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/src/mos_mjs.c
+  AR /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/lwip/liblwip_cs.a
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/modules/mjs/mjs.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mjs/esp8266/src/esp8266_mjs.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/src/mgos_mqtt.c
+make[1]: Leaving directory '/opt/Espressif/cs_lwip'
+CFLAGS_EXTRA=""
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/mqtt/src/mgos_mqtt_conn.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/neopixel/src/mgos_neopixel.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-config/src/mgos_service_config.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-service-fs/src/mgos_service_fs.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/rpc-uart/src/mgos_rpc_channel_uart.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src/mgos_wifi.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src/mjs_wifi.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/deps/wifi/src/esp8266/esp_wifi.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/ffi_exports.c
+  CC    /mongoose-os/src/common/cs_file.c
+  CC    /mongoose-os/src/common/cs_hex.c
+  CC    /mongoose-os/src/common/cs_rbuf.c
+  CC    /mongoose-os/src/mgos_config_util.c
+  CC    /mongoose-os/src/mgos_core_dump.c
+  CC    /mongoose-os/src/mgos_dlsym.c
+  CC    /mongoose-os/src/mgos_event.c
+  CC    /mongoose-os/src/mgos_file_utils.c
+  CC    /mongoose-os/src/mgos_gpio.c
+  CC    /mongoose-os/src/mgos_hw_timers.c
+  CC    /mongoose-os/src/mgos_init.c
+  CC    /mongoose-os/src/mgos_time.c
+  CC    /mongoose-os/src/mgos_timers.c
+  CC    /mongoose-os/src/mgos_mmap_esp.c
+  CC    /mongoose-os/src/mgos_sys_config.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/mgos_config.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/mgos_ro_vars.c
+  CC    /mongoose-os/src/mgos_system.c
+  CC    /mongoose-os/src/mgos_uart.c
+  CC    /mongoose-os/src/mgos_utils.c
+  CC    /mongoose-os/src/common/cs_crc32.c
+  CC    /mongoose-os/platforms/esp8266/rboot/rboot/appcode/rboot-bigflash.c
+  CC    /mongoose-os/platforms/esp8266/rboot/rboot/appcode/rboot-api.c
+  CC    /mongoose-os/src/common/json_utils.c
+  CC    /mongoose-os/src/umm_malloc/umm_malloc.c
+  CC    /mongoose-os/src/frozen/frozen.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_config.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_coredump.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_crypto.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_debug.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_exc.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_gpio.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_hal.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_heap_trace.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_hw_timers.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_hw_wdt.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_libc.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_main.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_periph.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_uart.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_umm_malloc.c
+  CXX    /mongoose-os/src/error_codes.cpp
+  CXX    /mongoose-os/src/status.cpp
+  CC    /mongoose-os/src/mgos_debug.c
+  CC    /mongoose-os/src/mgos_net.c
+  CC    /mongoose-os/src/mgos_bitbang.c
+  CC    /mongoose-os/platforms/esp8266/src/esp_exc_non_os.c
+  AS    /mongoose-os/platforms/esp8266/src/esp_exc_vectors.S -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/esp_exc_vectors.S.o
+  AS    /mongoose-os/platforms/esp8266/src/esp_nsleep100.S -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/esp_nsleep100.S.o
+CC rboot-stage2a.c
+LD /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/rboot/rboot-stage2a.elf
+E2 /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/rboot-hex2a.h
+CC rboot.c
+LD /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/rboot/rboot.elf
+E2 /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/rboot/rboot.bin
+  GEN   /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/mg_build_info.c
+  AR    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/mongoose-os.a
+  GEN   /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/build_info.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/build_info.c
+  CC    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/gen/mg_build_info.c
+  LD    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/MOS_IOT_ADDRESSABLE_LEDS.elf
+  FW    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/MOS_IOT_ADDRESSABLE_LEDS.elf -> /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/MOS_IOT_ADDRESSABLE_LEDS.bin
+  GEN    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fw_temp/manifest.json
+  ZIP    /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/fw/MOS_IOT_ADDRESSABLE_LEDS-esp8266-last.zip
+     Adding /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fw_temp/MOS_IOT_ADDRESSABLE_LEDS.bin
+     Adding /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fw_temp/esp_init_data_default_v08.bin
+     Adding /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fw_temp/fs.bin
+     Adding /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/objs/fw_temp/rboot.bin
+  Built MOS_IOT_ADDRESSABLE_LEDS/esp8266 version 1.0 (20210410-041746)
+make: Leaving directory '/app'
+Success, built MOS_IOT_ADDRESSABLE_LEDS/esp8266 version 1.0 (20210410-041746).
+Firmware saved to /data/fwbuild-volumes/2.17.0/apps/MOS_IOT_ADDRESSABLE_LEDS/esp8266/build_contexts/build_ctx_583834838/build/fw.zip
+By the way, there is a newer version available: "2.19.1" (you use "2.17.0"). Run "mos update" to upgrade.
